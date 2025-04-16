@@ -125,6 +125,7 @@ header nav.opened{
     height: auto;
     margin: auto;
     margin-bottom: 5rem;
+    border-radius: 50%;
 }
 
 .hero-device {
